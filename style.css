@@ -1,10 +1,15 @@
 
 .colorfondo{
-    background-color: #e0762f;
-    color: #000000;
+    color: #ffffff;
+    background: rgb(0, 0, 0);
+    background: 
+        radial-gradient(circle, 
+        rgba(2,0,36,1) 0%, 
+        rgba(76,9,121,1) 70%, 
+        rgba(255,0,136,1) 100%);
 }
 
-.head{
-    background-color: #da1c45;
-    color: #000000;
+.cabecera{
+    background-color: #ff0b40;
+    color: #ffffff;
 }
