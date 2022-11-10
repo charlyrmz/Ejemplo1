@@ -1,5 +1,10 @@
 
 .colorfondo{
     background-color: #e0762f;
-    color: #2cd5db;
+    color: #000000;
+}
+
+.head{
+    background-color: #da1c45;
+    color: #000000;
 }
