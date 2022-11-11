@@ -1,5 +1,7 @@
 
-.colorfondo{
+.general{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
     color: #ffffff;
     background: rgb(0, 0, 0);
     background: 
@@ -10,6 +12,15 @@
 }
 
 .cabecera{
+    font-size : 25px;
     background-color: #ff0b40;
     color: #ffffff;
+}
+
+.subtitle{
+    font-size : 30px;
+}
+
+.subrayado{
+    
 }
