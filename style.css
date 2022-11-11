@@ -21,6 +21,19 @@
     font-size : 30px;
 }
 
-.subrayado{
-    
+.redes{
+    text-decoration: none;
+    background-color: antiquewhite;
+    padding: 16px;
+    width: 200px;
+    border-radius: 50px;
+}
+
+a:link{
+    background-color: #ff0b40;
+    font-size: x-large;
+}
+
+a:hover{
+    font-weight: 700;
 }
